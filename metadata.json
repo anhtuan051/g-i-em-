@@ -1,0 +1,6 @@
+{
+  "name": "Chuyện Tình Chúng Mình - Our Love Story",
+  "description": "Hành trình tình yêu lãng mạn, đếm ngày bên nhau và những kỷ niệm ngọt ngào.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
