@@ -17,7 +17,7 @@ export const STORY_MILESTONES: StoryMilestone[] = [
     tag: 'Ngày câu chuyện bắt đầu',
     iconType: 'sparkles',
     location: '',
-    image: '/src/assets/images/love_coffee_date_1790841388015.jpg',
+    image: '/images/love_coffee_date_1790841388015.jpg',
     content: [
       'Ngày 01 tháng 04 năm 2024, anh đã lấy hết can đảm để bày tỏ tình cảm với em.',
       'Nhưng lúc đó em vẫn chưa đồng ý, thế là anh lại phải “đe dọa” em một chút. 😆',
@@ -33,7 +33,7 @@ export const STORY_MILESTONES: StoryMilestone[] = [
     tag: 'Tình cảm lớn dần',
     iconType: 'heart',
     location: '',
-    image: '/src/assets/images/love_city_lights_1790841418378.jpg',
+    image: '/images/love_city_lights_1790841418378.jpg',
     content: [
       'Thời gian cứ thế trôi qua, tình cảm của em dành cho anh cũng ngày một nhiều hơn.',
       'Anh đã dần dần chiếm trọn trái tim và tình cảm của em lúc nào chẳng hay.',
@@ -49,7 +49,7 @@ export const STORY_MILESTONES: StoryMilestone[] = [
     tag: 'Con người thật của em',
     iconType: 'sunset',
     location: '',
-    image: '/src/assets/images/love_sunset_walk_1790841368082.jpg',
+    image: '/images/love_sunset_walk_1790841368082.jpg',
     content: [
       'Khi đã yêu anh đủ nhiều, em cũng dần bộc lộ tính cách thật của mình.',
       'Một cô gái hơi hâm hấp, đôi lúc hay chửi anh và làm anh không biết phải nói gì. 😂',
@@ -65,7 +65,7 @@ export const STORY_MILESTONES: StoryMilestone[] = [
     tag: 'Những điều bình dị',
     iconType: 'star',
     location: '',
-    image: '/src/assets/images/love_stargazing_1790841404032.jpg',
+    image: '/images/love_stargazing_1790841404032.jpg',
     content: [
       'Anh nhận ra rằng yêu một người không phải lúc nào cũng là những khoảnh khắc ngọt ngào.',
       'Đôi khi sẽ có những lúc giận dỗi, cãi nhau và những lần em làm anh phát bực.',
@@ -93,7 +93,7 @@ export const STORY_MILESTONES: StoryMilestone[] = [
 export const POLAROID_PHOTOS: PolaroidPhoto[] = [
   {
     id: 'p1',
-    image: '/src/assets/images/love_sunset_walk_1790841368082.jpg',
+    image: '/images/love_sunset_walk_1790841368082.jpg',
     caption: 'Những khoảnh khắc bên em',
     date: '01.04.2024',
     location: '',
@@ -103,7 +103,7 @@ export const POLAROID_PHOTOS: PolaroidPhoto[] = [
 
   {
     id: 'p2',
-    image: '/src/assets/images/love_coffee_date_1790841388015.jpg',
+    image: '/images/love_coffee_date_1790841388015.jpg',
     caption: 'Ngày câu chuyện bắt đầu',
     date: '01.04.2024',
     location: '',
@@ -113,7 +113,7 @@ export const POLAROID_PHOTOS: PolaroidPhoto[] = [
 
   {
     id: 'p3',
-    image: '/src/assets/images/love_stargazing_1790841404032.jpg',
+    image: '/images/love_stargazing_1790841404032.jpg',
     caption: 'Càng lâu càng thương',
     date: '2025',
     location: '',
@@ -123,7 +123,7 @@ export const POLAROID_PHOTOS: PolaroidPhoto[] = [
 
   {
     id: 'p4',
-    image: '/src/assets/images/love_city_lights_1790841418378.jpg',
+    image: '/images/love_city_lights_1790841418378.jpg',
     caption: 'Cô gái anh vẫn yêu',
     date: 'Hôm nay',
     location: '',
